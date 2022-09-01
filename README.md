@@ -20,11 +20,8 @@ suitable image dataset.
 Write a Python program to calculate clusters using the Hierarchical Clustering
 method. Perform Text analysis using topic modeling algorithms.
 
-Papers dataset: https://github.com/kapadias/mediumposts/blob/master/natural_language_processing/topic_modeling/data/NIPS%20Papers.zip
-
 ## Assignment 4:
 
 Design a Tableau dashboard on any one of this Sales Forecast Analysis.Dashboard/Patient Risk Healthcare Dashboard/COVID Analytics dashboard.
 
 The folder contains output screenshots for each sheet used to make the dashboard and the final dashboard.
-//test push 2
