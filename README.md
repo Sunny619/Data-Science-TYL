@@ -27,3 +27,4 @@ Papers dataset: https://github.com/kapadias/mediumposts/blob/master/natural_lang
 Design a Tableau dashboard on any one of this Sales Forecast Analysis.Dashboard/Patient Risk Healthcare Dashboard/COVID Analytics dashboard.
 
 The folder contains output screenshots for each sheet used to make the dashboard and the final dashboard.
+//test push
